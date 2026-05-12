@@ -1,0 +1,5 @@
+#ifndef JANTUNG_H
+#define JANTUNG_H 
+#include <iostream>
+#include <string>
+using namespace std;
